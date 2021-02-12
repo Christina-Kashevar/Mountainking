@@ -1,1 +1,1 @@
-[mountainking](https://christina-kashevar.github.io/mountainking/mountainking/index.html)
+[mountainking](https://mountainking.netlify.app/)
